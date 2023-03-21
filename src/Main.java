@@ -6,5 +6,7 @@ public class Main {
         for (int i = 0; i < 2; i++) {
             System.out.println("1");
         }
+
+        System.out.println("first");
     }
 }
